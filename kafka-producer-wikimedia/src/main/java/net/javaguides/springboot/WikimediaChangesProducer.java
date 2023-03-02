@@ -32,11 +32,5 @@ public class WikimediaChangesProducer {
         eventSource.start();
 
         TimeUnit.MINUTES.sleep(10);
-
-
-
-
     }
-
-
 }
